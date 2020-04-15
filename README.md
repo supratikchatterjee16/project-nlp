@@ -14,8 +14,9 @@ and create human verifiable logics.
 Current goals for this experiment are the folllowing:
 
 1. Precise Named Entity Recognition
-2. Interlingua Tree Generations
-3. Fact finding and understanding
+2. Accurate Co-Reference resolution, both Anaphoric as well as Cataphoric
+3. Interlingua Tree Generations
+4. Fact finding and Fact understanding
 
 The experiment is supposed to make an intelligent subsystem for textual comprehension and response generation.
 
